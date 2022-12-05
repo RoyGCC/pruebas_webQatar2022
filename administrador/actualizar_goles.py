@@ -25,6 +25,6 @@ driver.find_element(By.NAME, "actualizar").click()
 
 #Termina la prueba
 
-#Resultado esperado: Se ha creado la cuenta
+#Resultado esperado: Se actualizaron los goles
 time.sleep(5000)
 #driver.quit()
